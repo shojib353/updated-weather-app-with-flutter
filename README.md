@@ -1,18 +1,9 @@
-# weather_api_with_flutter
+## Weather App With Flutter
 
-A new Flutter project.
+I worked with a weather API to show real-time data in my Flutter app. 
 
-## Getting Started
+### 📹 App Features (Demo Video)
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-This project is a starting point for a Flutter application.
+🔗 Check out the repository: [updated-weather-app-with-flutter](https://github.com/shojib353/updated-weather-app-with-flutter)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-Full project features: https://github.com/shojib353/updated-weather-app-with-flutter/issues/1#issue-2778648612
