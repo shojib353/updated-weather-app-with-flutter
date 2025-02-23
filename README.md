@@ -3,7 +3,7 @@
 I worked with a weather API to show real-time data in my Flutter app. 
 
 ### 📹 App Features (Demo Video)
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[Watch the demo video here](https://github.com/shojib353/updated-weather-app-with-flutter/issues/1#issue-2778648612)
 
 🔗 Check out the repository: [updated-weather-app-with-flutter](https://github.com/shojib353/updated-weather-app-with-flutter)
 
